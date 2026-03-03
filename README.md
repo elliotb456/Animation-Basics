@@ -3,3 +3,7 @@ Modelled and animated a basic humanoid shape in MAYA in order to gain an underst
 
 
 Unfortunately the original project files are lost but you can see both my video walkthrough and written report on the project The video walkthrough goes over some of the basic skills used as well as the finished project
+
+
+Video Walkthrough:
+https://drive.google.com/file/d/1L3J5DaausTTqprE1HnRrB78OoB1AtrxK/view?usp=drive_link
